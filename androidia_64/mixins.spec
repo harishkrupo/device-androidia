@@ -42,3 +42,4 @@ midi: true
 slcan: default
 ioc-slcan-reboot: false
 camera: usbcamera
+memtrack: true
